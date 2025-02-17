@@ -25,6 +25,9 @@ This project involved creating a dynamic **Bike Sales Dashboard** in Excel, focu
    - Learned industry-relevant techniques for data visualization and reporting.  
    - Developed hands-on experience with real-world sales data.
 
+     ![Screenshot (2)](https://github.com/user-attachments/assets/098e06de-4933-4cf5-9425-bee2954086e8)
+
+
 # Questions covered:
 1. Show the data of average income of the people who **Did and Did not** but the bike
 2. Relationship between sales of bikes with **location distance and age factors**
